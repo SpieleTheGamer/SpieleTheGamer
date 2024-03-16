@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mustafa</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-<img align="right"alt="Animated" width="500"  src="https://github.com/SpieleTheGamer/SpieleTheGamer/blob/main/bg-animated%20(2).gif">
+<img align="right"alt="Animated" width="400"  src="https://github.com/SpieleTheGamer/SpieleTheGamer/blob/main/bg-animated.gif">
 
 - 🌱 I’m currently learning **PHP MYSQL & LARAVEL**
 
