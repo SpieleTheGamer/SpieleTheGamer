@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **PHP MYSQL & LARAVEL**
 
-- 💬 Ask me about **css, javascript, bootstrap, json, git & github**
+- 💬 Ask me about **css, javascript, bootstrap,xml, git & github**
 
 - 📫 How to reach me **meinleben@mail.de**
 
